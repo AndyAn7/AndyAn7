@@ -1,4 +1,4 @@
-## Brief Introduction
+## Introduction
 - 👋 Hi, I’m @AndyAn7
 - 👀 I’m interested in all things code!
 - 🌱 I’m currently learning Full-Stack!
