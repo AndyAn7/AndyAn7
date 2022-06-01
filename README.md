@@ -13,7 +13,7 @@
   
   Thanks!
   
-  [Personal Portfolio](https://andyan7.github.io/Personal-Portfolio)
+  [Personal Portfolio](https://andyan7.github.io/react-portfolio)
   
   andyan7@gmail.com
 <!---
