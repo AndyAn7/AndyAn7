@@ -15,7 +15,7 @@
   
   [Personal Portfolio](https://andyan7.github.io/react-portfolio)
   
-  andyan7@gmail.com
+  andyan7@hotmail.com
   
   [Skype](https://join.skype.com/invite/gklvylSYKSUM)
 <!---
